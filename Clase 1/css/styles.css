@@ -1,0 +1,48 @@
+body {
+
+  font-family: 'Acme', sans-serif;
+  background-color: rgba(255, 0, 0, 0.2);
+
+}
+
+h1 {
+
+  font-size: 37px;
+  line-height: 46px;
+  color:  #000000;
+
+}
+
+h2 {
+
+  font-size: 25px;
+  line-height: 38px;
+
+}
+
+h3 {
+
+  color: #666;
+
+}
+
+p {
+
+  line-height: 27px;
+  color: #333;
+  font-size: 122px;
+
+}
+
+.mismaFamiliaDeLetra {
+
+  font-family: 'Londrina Shadow', cursive;
+
+}
+
+.mismoTamañoDeLetra,
+p {
+
+  font-size: 18px;
+
+}
